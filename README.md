@@ -19,7 +19,7 @@
   
   ![Database Schema](./SQL-Music_StoreAnalysis/Music-Store-Data/schema_diagram.png?raw=true)
 
-- 📄 [View Project README](./SQL-Music_StoreAnalysis/README.md)
+- 📄 [View Project README](./SQL-Music-Store-Analysis/README.md)
 
 ---
 
