@@ -1,3 +1,7 @@
+# 🚀 Mayank's Resume Projects
+
+Welcome to my **Project Portfolio Repository!**  
+This repository contains a collection of my practical, hands-on projects in Python, SQL, Excel, and Tableau. Each project demonstrates my ability to analyze data, solve business problems, and deliver actionable insights using industry-standard tools.
 
 ---
 
