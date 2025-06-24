@@ -7,7 +7,7 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ## 📊 Project Overviews
 
-### 📁 [Python Sales Analysis](./Python_Sales_Analysis)
+### 📁 [Python Sales Analysis](./Sales-Analysis-Using-Python)
 - **Tools:** Python, Pandas, Matplotlib
 - **Summary:** Analyzed 12 months of electronic store sales data to uncover key sales trends, best-selling cities, and frequently purchased product combinations.
 - **Skills:** Data cleaning, feature engineering, sales trend analysis, data visualization.
