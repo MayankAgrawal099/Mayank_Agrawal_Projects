@@ -27,11 +27,11 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ---
 
-### 📁 [Excel Sales Report](./Excel_Sales_Report)
+### 📁 [Excel Bike Purchase Dashboard](./Excel-Bike-Purchase-Dashboard)
 - **Tools:** Microsoft Excel
-- **Summary:** Created a dynamic, interactive sales report using pivot tables, slicers, charts, and advanced Excel formulas.
-- **Skills:** Data summarization, sales tracking, dashboard creation, Excel automation (if using macros).
-- 📄 *Project README coming soon.*
+- **Summary:** Built an interactive Excel dashboard from cleaned customer data to uncover patterns in bike purchases. Analyzed customer demographics like income, age, gender, and region to extract business insights.
+- **Skills:** Pivot Tables, Slicers, KPI Cards, Dashboard Design, Data Cleaning
+- 📄 [View Project README](./Excel-Bike-Purchase-Dashboard/README.md)
 
 ---
 
