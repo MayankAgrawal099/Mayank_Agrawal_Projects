@@ -7,7 +7,7 @@
 - **Tools:** Python, Pandas, Matplotlib
 - **Summary:** Analyzed 12 months of electronic store sales data to uncover key sales trends, best-selling cities, and frequently purchased product combinations.
 - **Skills:** Data cleaning, feature engineering, sales trend analysis, data visualization.
-- 📄 [View Project README](./Python_Sales_Analysis/README.md)
+- 📄 [View Project README](./Sales-Analysis-Using-Python/README.md)
 
 ---
 
