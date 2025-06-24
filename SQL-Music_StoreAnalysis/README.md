@@ -33,6 +33,9 @@ This project analyzes a relational music store database using MySQL to extract v
   - Invoice amounts and locations
   - Music genres and track details
 
+![Schema Diagram]([image_url](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/SQL-Music_StoreAnalysis/Music-Store-Data/schema_diagram.png?raw=true))
+
+
 ---
 
 ## 📝 Key Analysis Performed
