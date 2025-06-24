@@ -31,3 +31,11 @@ This project presents an interactive Excel dashboard built to analyze customer d
   - Commute Distance
   - Occupation
 - ✅ Slicers for quick filtering by demographics
+
+---
+
+## 🧠 Key Insights
+- Professionals and those with higher education levels are more likely to purchase bikes.
+- Pacific and Europe regions show higher bike purchase rates.
+- Commute distance appears to influence bike purchase decisions.
+- Gender and income levels provide additional segmentation value.
