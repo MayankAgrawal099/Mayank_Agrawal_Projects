@@ -66,5 +66,5 @@ Feel free to explore the projects and reach out to me if you would like to colla
 
 ## 📫 Contact
 - **GitHub:** [MayankAgrawal099](https://github.com/MayankAgrawal099)
-- **LinkedIn:** *Your LinkedIn Profile Link Here*
-- **Email:** *Your Email Address Here*
+- **LinkedIn:** (https://www.linkedin.com/in/agrawal-mayank-anil/)
+- **Email:** mayank.71771@gmail.com
