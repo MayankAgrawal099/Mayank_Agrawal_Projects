@@ -15,7 +15,7 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ---
 
-### 📁 [SQL Music Store Analysis](./SQL-Music_StoreAnalysis)
+### 📁 [SQL Music Store Analysis](./SQL-Music-Store-Analysis)
 - **Tools:** MySQL Workbench, SQL
 - **Summary:** Analyzed a relational music store database to extract sales patterns, identify top-spending customers, and discover popular music genres.
 - **Skills:** SQL joins, aggregations, subqueries, schema analysis.
