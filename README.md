@@ -21,7 +21,7 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 - **Skills:** SQL joins, aggregations, subqueries, schema analysis.
 - **Schema Diagram:**
   
-  ![Database Schema](./SQL-Music_StoreAnalysis/Music-Store-Data/schema_diagram.png?raw=true)
+  ![Database Schema](./SQL-Music-Store-Analysis/Music-Store-Data/schema_diagram.png?raw=true)
 
 - 📄 [View Project README](./SQL-Music-Store-Analysis/README.md)
 
