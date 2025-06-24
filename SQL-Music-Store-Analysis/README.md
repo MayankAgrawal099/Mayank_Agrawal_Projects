@@ -35,7 +35,7 @@ This project analyzes a relational music store database using MySQL to extract v
 
 
 ## 📐 Database Schema Diagram
-![Database Schema](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/SQL-Music_StoreAnalysis/Music-Store-Data/schema_diagram.png?raw=true)
+![Database Schema](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/SQL-Music-Store-Analysis/Music-Store-Data/schema_diagram.png?raw=true)
 
 
 ---
