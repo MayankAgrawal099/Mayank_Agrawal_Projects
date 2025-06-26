@@ -35,10 +35,11 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ---
 
-### 📁 [Tableau Visualization Project](./Tableau_Visualization_Project)
-- **Tools:** Tableau
-- **Summary:** Designed interactive dashboards to visualize sales performance, customer trends, and regional revenue breakdown.
-- **Skills:** Dashboard design, data storytelling, cross-filtering, KPIs tracking.
+### 📁 [Tableau Visualization Project](./HR-Analytics-Dashboard(Tableau))
+- **Tools:** Tableau Public, Custom Icons, CSV Dataset
+- **Summary:** An interactive Tableau dashboard designed to uncover insights about employee attrition, job satisfaction, demographics, and salary distribution. Features include KPI cards, filters, and department-level visualizations to support HR decision-making.
+- **KPIs:** Attrition %, Avg Salary, Demographics, Education vs. Performance  
+- **📍 [Live Dashboard](https://public.tableau.com/app/profile/mayank.agrawal6322/viz/HRDashboard_17509689006410/HRSummary)**  
 - 📄 [View Project README](./HR-Analytics-Dashboard(Tableau)/README.md)
 
 ---
