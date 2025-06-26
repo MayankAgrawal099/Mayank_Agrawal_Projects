@@ -33,4 +33,10 @@ This Tableau dashboard analyzes employee attrition patterns and workplace satisf
 ## 🖼 Visual Assets
 All custom icons and backgrounds used in this dashboard are available in the `/images` folder for reuse and reference.
 
+---
 
+## 📸 Dashboard Preview
+
+Here is a snapshot of the interactive HR dashboard built using Tableau:
+
+![Summary Dashboard Preview]()
