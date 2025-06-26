@@ -1,45 +1,52 @@
-# 📊 HR Analytics Dashboard (Tableau)
+# 📊 Human Resources Analytics Dashboard – Tableau
 
-## 🧾 Project Overview
-This Tableau dashboard analyzes employee attrition patterns and workplace satisfaction across departments in a corporate HR dataset. The goal is to help HR teams identify key factors contributing to employee turnover and take data-driven actions to improve retention, job satisfaction, and workforce planning.
-
----
-
-## 🎯 Objectives
-- Visualize attrition trends by department, job role, gender, and income.
-- Explore employee satisfaction with environment, job, and work-life balance.
-- Analyze factors such as distance from home, years at company, and age distribution.
-- Build a clean, interactive dashboard for HR insights and executive review.
+## 🔍 Overview  
+This interactive Tableau dashboard analyzes HR data to help identify patterns in **employee attrition**, **demographics**, **department-wise distribution**, and **income trends**. It provides actionable insights for HR teams to make informed decisions and improve employee retention.
 
 ---
 
-## 📊 Key Dashboard Features
-- ✅ Overall KPIs: Total Employees, % Attrition, Avg Monthly Income
-- ✅ Attrition Breakdown: By Gender, Department, Job Role
-- ✅ Satisfaction Metrics: Job, Work-Life Balance, Environment
-- ✅ Income Distribution by Role
-- ✅ Filters for dynamic drill-down (e.g., Gender, Department, Education)
+## 🧩 Key Features
+
+- 📌 **Overview Dashboard** with active vs. terminated employees, departmental attrition, and geography-based distribution  
+- 👥 **Demographics Analysis**: Gender, age, education, and performance clusters  
+- 💸 **Income Trends**: Salary by age, education, and gender  
+- 📋 **Employee Details Page**: Role-wise breakdown, location, salary, tenure, and employment status  
+- 🔎 Interactive filters for self-service analytics
 
 ---
 
-## 🛠 Tools & Technologies
-- **Tableau Public/Desktop**
-- Dataset: `dataset.csv` (HR Employee Details)
-- Filters, KPI cards, bar charts, highlight actions
-- Dark-themed, professional layout design
+## 📂 Dataset
+- Source: Synthetic HR dataset (`dataset.csv`)
+- Fields: Employee ID, Age, Gender, Education, Department, Salary, Hire Date, Termination Status, Performance, etc.
 
 ---
 
-## 🖼 Visual Assets
-All custom icons and backgrounds used in this dashboard are available in the `/images` folder for reuse and reference.
+## 📌 Tools Used
+- Tableau Public/Desktop
+- Adobe Illustrator (for custom icons)
+- CSV file for structured HR data
 
 ---
 
 ## 📸 Dashboard Preview
 
-Here is a snapshot of the interactive HR dashboard built using Tableau:
+### 🔷 Summary Dashboard  
+![HR Summary Dashboard](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/HR-Analytics-Dashboard(Tableau)/Dashboard-Preview/HR%20_%20Summary.png?raw=true)
 
-![Summary Dashboard Preview](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/HR-Analytics-Dashboard(Tableau)/Dashboard-Preview/HR%20_%20Summary.png?raw=true)
+### 🔷 Employee Details Dashboard  
+![HR Details Dashboard](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/HR-Analytics-Dashboard(Tableau)/Dashboard-Preview/HR%20_%20Details.png?raw=true)
 
+---
 
-![Details Dashboard Preview](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/HR-Analytics-Dashboard(Tableau)/Dashboard-Preview/HR%20_%20Details.png?raw=true)
+## 🧠 Key Insights
+- Attrition is higher in **Sales** and **Customer Service** departments  
+- **Bachelor's degree holders under 35** show higher attrition rates  
+- **Salary gaps** observed across **education and gender levels**  
+- High performers with **Master's or PhDs** are most retained  
+
+---
+
+## ✅ Outcome & Learnings
+- Built a clean and interactive HR dashboard with dark theme styling  
+- Practiced visual storytelling, data filtering, and KPI design in Tableau  
+- Developed insights to support workforce planning and HR strategy
