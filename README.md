@@ -35,7 +35,7 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ---
 
-### 📁 [Tableau Visualization Project](./HR-Analytics-Dashboard(Tableau))
+### 📁 [HR Analytics Dashboard(Tableau)](./HR-Analytics-Dashboard(Tableau))
 - **Tools:** Tableau Public, Custom Icons, CSV Dataset
 - **Summary:** An interactive Tableau dashboard designed to uncover insights about employee attrition, job satisfaction, demographics, and salary distribution. Features include KPI cards, filters, and department-level visualizations to support HR decision-making.
 - **KPIs:** Attrition %, Avg Salary, Demographics, Education vs. Performance  
