@@ -39,5 +39,5 @@ All custom icons and backgrounds used in this dashboard are available in the `/i
 
 Here is a snapshot of the interactive HR dashboard built using Tableau:
 
-![Summary Dashboard Preview]()
+![Summary Dashboard Preview](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/HR-Analytics-Dashboard(Tableau)/Dashboard-Preview/HR%20_%20Summary.png?raw=true)
 ![Database Schema](https://github.com/MayankAgrawal099/Mayank_Resume_Projects/blob/main/SQL-Music-Store-Analysis/Music-Store-Data/schema_diagram.png?raw=true)
