@@ -46,11 +46,4 @@ This interactive Tableau dashboard analyzes HR data to help identify patterns in
 
 ---
 
-## ✅ Outcome & Learnings
-- Built a clean and interactive HR dashboard with dark theme styling  
-- Practiced visual storytelling, data filtering, and KPI design in Tableau  
-- Developed insights to support workforce planning and HR strategy
-
----
-
-🔗 **[Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/your_username/viz/your_dashboard_name)**  
+🔗 **[Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your_username/viz/your_dashboard_name](https://public.tableau.com/app/profile/mayank.agrawal6322/viz/HRDashboard_17509689006410/HRSummary))**  
