@@ -39,7 +39,7 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 - **Tools:** Tableau
 - **Summary:** Designed interactive dashboards to visualize sales performance, customer trends, and regional revenue breakdown.
 - **Skills:** Dashboard design, data storytelling, cross-filtering, KPIs tracking.
-- 📄 *Project README coming soon.*
+- 📄 [View Project README](./HR-Analytics-Dashboard(Tableau)/README.md)
 
 ---
 
