@@ -46,4 +46,4 @@ This interactive Tableau dashboard analyzes HR data to help identify patterns in
 
 ---
 
-🔗 **[Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your_username/viz/your_dashboard_name](https://public.tableau.com/app/profile/mayank.agrawal6322/viz/HRDashboard_17509689006410/HRSummary))**  
+🔗 **[Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/mayank.agrawal6322/viz/HRDashboard_17509689006410/HRSummary])**  
