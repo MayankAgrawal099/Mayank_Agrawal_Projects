@@ -32,6 +32,7 @@ This project presents an interactive Excel dashboard built to analyze customer d
   - Occupation
 - ✅ Slicers for quick filtering by demographics
 
+![Dashboard](https://github.com/MayankAgrawal099/Mayank_Agrawal_Projects/blob/main/Excel-Bike-Purchase-Dashboard/image.png?raw=true)
 ---
 
 ## 🧠 Key Insights
