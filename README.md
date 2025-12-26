@@ -44,16 +44,6 @@ This repository contains a collection of my practical, hands-on projects in Pyth
 
 ---
 
-## ✅ How to Explore
-1. Click on each project folder to view the detailed README file.
-2. Each project includes:
-   - Project objectives
-   - Tools and technologies used
-   - Key business questions solved
-   - Visualizations and insights
-
----
-
 ## 📌 About Me
 I am passionate about transforming data into actionable insights. This repository highlights my practical experience in:
 - Python-based data analysis
